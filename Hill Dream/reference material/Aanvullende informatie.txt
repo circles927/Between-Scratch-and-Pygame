@@ -1,0 +1,6 @@
+Ik ga de user interface maken op basis van GTK.
+
+Ik wil dat de taal waarin gewerkt wordt binnen de ontwikkelomgeving Hill Dream, Python is.
+
+Ik ontwikkel het programma met Python, en ook vóór Python gebruikers.
+
