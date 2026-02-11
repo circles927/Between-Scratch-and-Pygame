@@ -1,0 +1,48 @@
+Python is een goede basis voor dit programma.
+
+Eén van de redenen dat ik gamemaker niet gebruik, of Godot, is dat ze allemaal hun eigen programmeertaal vereisen. Ik vind dat vervelend.
+
+En raar.
+
+En ontoegankelijk in die zin dus ook.
+
+Is dezelfde rede als waarom ik geen Assembly wilde leren op basis van de Raspberry Pi. Dat was ook specifiek voor de Raspberry, een hele andere constructie als andere mainstream computers.
+
+(Dat zou namelijk op een andere architectuur gebaseerd zijn)
+
+-
+
+Tevens denk ik dat dit project kan slagen, omdat ik er zelf behoefte aan heb.
+
+Misschien vereist het ook nog meer te proberen te programmeren in Scratch.
+
+Toneelstukjes of zo op te voeren.
+
+Want het canvas is als het ware ook gewoon een decor. 
+
+Eens onderzoeken waar precies die behoefte in ligt.
+
+Want die is er wel. Daarom denk ik dat dit het perfecte project is voor mij.
+
+Voldoende groot.
+
+Voorbeeld materiaal ook.
+
+-
+
+En ja, het moet gewoon via Python kunnen lukken.
+
+En eventueel een combinatie met C.
+
+Dat is interessant!
+
+Zo is het gewoon.
+
+Ik kan ook van Pygame leren, en dingen overnemen.
+
+Het is gewoon echt iets wat ik zelf ook zou willen gebruiken.
+
+Dus ik wil het makkelijker maken voor mezelf.
+
+Ik weet waarschijnlijk precies wat ik er in wil hebben en wat niet.
+
