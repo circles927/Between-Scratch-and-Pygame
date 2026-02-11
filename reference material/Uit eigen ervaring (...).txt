@@ -1,0 +1,46 @@
+Juist nou,
+
+Ik was even dingen uit aan het typen voor een spelletje, waar ik een poging toe heb gedaan.
+
+Maar ik doe een bepaalde constatering dat ik Scratch een leuk programma vind, maar dat is te makkelijk of zo. En Pygame wordt al ingewikkeld.
+
+Althans, ja.
+
+Pygame kan ook nog, deels.
+
+Maar...
+
+Ik zou het eigenlijk toegankelijker willen maken. Scratch is duidelijk, daar kan je gewoon in doen wat je maar wilt. Het is leuk opgezet. Het is een soort speelgoed.
+
+Maar ik zou willen dat de krachtigere libraries die je voor game ontwikkeling gebruikt, net zo toegankelijk zouden zijn.
+
+Of ja, wat is het dan wat ik mis in Scratch??
+
+Is Scratch niet eigenlijk al voldoende? Of, waarom zou je naar Pygame gaan als je dat minder leuk vindt? Heb je het in die zin eigenlijk al nodig, het verschil tussen Pygame en Scratch?
+
+Of kan je net zo goed bij Scratch blijven?
+
+Dat vereist onderzoek, zulke vragen.
+
+Dat zijn interessante vragen.
+
+Want het pakt een aantal aannames aan. Waarom zou ik beter nodig hebben? Wat kan pygame werkelijk wat ik niet in Scratch al kan?
+
+Dat vereist some soul searching. Lol.
+
+Ik moet die brug leggen.
+
+Scratch is veel toegankelijker dan dat Pygame al is.
+
+Ik strandt zo ongeveer al bij Pygame van "ja weet ik veel wat ik wil maken??".
+
+Binnen Scratch zijn de mogelijkheden eindeloos.
+
+En de Command Line. Ook, bijvoorbeeld??
+
+Die kun je er ook bij betrekken.
+
+Dat is een professionelere omgeving. Nog kaler.
+
+Maar zou ook toegankelijk moeten voelen. Waarom doet het dat niet??
+
